@@ -1,4 +1,4 @@
-# hello-world hello hello
+# hello-world
 
 I love sushi
 
